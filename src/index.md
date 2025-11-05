@@ -2,10 +2,20 @@
 layout: base.liquid
 ---
 
-# Hello, I'm Adarsh Manickam
+# a study in sage.
 
-Welcome to my portfolio.
+_ரசவாதம்_ (rasavādhum), _alchemy_ in Tamil, was an ancient practice, whose most famous goal was to transform lead into gold. Today, we revive a discipline, as close as it gets to _ரசவாதம்_.
 
-This is where I publish my film photographs, all born from the alchemy of light and chemistry.
+Photons travel massive distances, bounce off the world around us, enter a _camera obscura_, and fall on a special paper. A transformation happens. Just like _ரசவாதம்_ intended, a magical transformation is achieved - _film chemistry_. 
 
-<img src="/images/image.jpeg" alt="A film photo">
+Here are the observations of some of my _chemical experiments_.
+
+<div class="picture-container">
+  <img src="/images/image-001.jpeg" alt="Film photograph">
+</div>
+<div class="picture-container">
+  <img src="/images/image-002.jpeg" alt="Film photograph">
+</div>
+<div class="picture-container">
+  <img src="/images/image-003.jpeg" alt="Film photograph">
+</div>
