@@ -10,12 +10,14 @@ Photons travel massive distances, bounce off the world around us, enter a _camer
 
 Here are the observations of some of my _chemical experiments_.
 
-<div class="picture-container">
-  <img src="/images/image-001.jpeg" alt="Film photograph">
-</div>
-<div class="picture-container">
-  <img src="/images/image-002.jpeg" alt="Film photograph">
-</div>
-<div class="picture-container">
-  <img src="/images/image-003.jpeg" alt="Film photograph">
+<div class="box-pictures">
+  <div class="box-picture">
+    <img src="/images/image-001.jpeg" alt="Film photograph">
+  </div>
+  <div class="box-picture">
+    <img src="/images/image-002.jpeg" alt="Film photograph">
+  </div>
+  <div class="box-picture">
+    <img src="/images/image-003.jpeg" alt="Film photograph">
+  </div>
 </div>
