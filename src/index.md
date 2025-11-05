@@ -4,7 +4,7 @@ layout: base.liquid
 
 # a study in sage.
 
-_ரசவாதம்_ (rasavādhum), _alchemy_ in Tamil, was an ancient practice, whose most famous goal was to transform lead into gold. Today, we revive a discipline, as close as it gets to _ரசவாதம்_.
+_ரசவாதம்_ (rasavādhum), _alchemy_ in Tamil, was an ancient practice, whose most famous goal was to transform lead (_Pb_) into gold (_Au_). Today, we revive a discipline, as close as it gets to _ரசவாதம்_.
 
 Photons travel massive distances, bounce off the world around us, enter a _camera obscura_, and fall on a special paper. A transformation happens. Just like _ரசவாதம்_ intended, a magical transformation is achieved - _film chemistry_. 
 
